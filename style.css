@@ -1,0 +1,11 @@
+.input{
+    background-color: yellow;
+}
+
+#last{
+    font-weight:bold;
+}
+
+#instructions{
+    border: 1px solid black;
+}
